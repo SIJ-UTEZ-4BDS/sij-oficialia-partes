@@ -1,0 +1,23 @@
+:root {
+    --color-primario: #691C32;
+    --color-secundario: #BC955C;
+    --color-fondo: #F8F9FA;
+    --color-texto: #212529;
+}
+
+.bg-institucional-primario {
+    background-color: var(--color-primario) !important;
+    color: #ffffff !important;
+}
+
+.btn-institucional {
+    background-color: var(--color-primario);
+    border-color: var(--color-primario);
+    color: #ffffff;
+}
+
+.btn-institucional:hover {
+    background-color: var(--color-secundario);
+    border-color: var(--color-secundario);
+    color: #ffffff;
+}

@@ -1,0 +1,7 @@
+target/
+*.war
+.idea/
+*.iml
+.vscode/
+.DS_Store
+config/
